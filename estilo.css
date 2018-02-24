@@ -1,0 +1,43 @@
+*{
+    margin-top: 20px;
+    margin-bottom:20px;
+    padding: 0px;
+    font-family: 'Trattatello';
+
+}
+h1{
+    margin:50px;
+    font-size: 50px;
+    text-align:center;
+}
+#centro{
+
+    width:750px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:left;
+}
+#anterior{
+    font-size:24px;
+    text-align:center;
+    width: 750px;
+    padding-top:20px;
+    padding-bottom:20px;
+    transition: padding 2s;
+    height:32px;
+    border-style: solid none;
+}
+input{
+    text-align:center;
+    width: 750px;
+    font-size: 22px;
+    margin-left:auto;
+    margin-right:auto;
+}
+ul, li{
+    list-style-type: upper-roman;
+    font-size:20px;
+    margin-left:12%;
+    text-align:left;
+    width:750px;
+}

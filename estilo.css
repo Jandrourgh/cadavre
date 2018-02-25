@@ -14,7 +14,6 @@ h1{
     text-align:center;
 }
 #centro{
-
     width:750px;
     margin-left:auto;
     margin-right:auto;
@@ -38,10 +37,14 @@ input{
     margin-left:auto;
     margin-right:auto;
 }
-ul, li{
+ul{
+    width:700px;
+    padding-left:15%;
     list-style-type: upper-roman;
     font-size:20px;
-    margin-left:12%;
     text-align:left;
     width:750px;
+}
+li{
+    width:650px;
 }

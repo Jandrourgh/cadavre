@@ -2,8 +2,11 @@
     margin-top: 20px;
     margin-bottom:20px;
     padding: 0px;
-    font-family: 'Trattatello';
-
+    font-family: Cadaver;
+}
+@font-face{
+    src:url(Trattatello.ttf);
+    font-family:Cadaver;
 }
 h1{
     margin:50px;
@@ -28,6 +31,7 @@ h1{
     border-style: solid none;
 }
 input{
+    height:40px;
     text-align:center;
     width: 750px;
     font-size: 22px;
